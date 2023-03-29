@@ -1,0 +1,12 @@
+{
+	"name": "spider-suit",
+	"description": "gpt assistant",
+	"version": "0.0.1",
+	"manifest_version": 3,
+	"action": {
+	  "default_popup": "hello.html",
+	  "default_icon": "hello_extensions.png"
+	},
+	"homepage_url": "https://github.com/BruceWang99/spider-suit"
+
+  }
