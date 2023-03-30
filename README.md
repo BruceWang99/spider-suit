@@ -1,4 +1,4 @@
-# gpt助手-chrome插件
+# chatGPT提示词助手-chrome插件
 
 
 
